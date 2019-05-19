@@ -8,6 +8,7 @@
 ## Getting Started
 
 - Please start with this starter project!
+- Completed Project: (https://github.com/ncytimothy/LSHK_05_21_2019_SummerDrinksComplete)
 
 ### Credits
 -
